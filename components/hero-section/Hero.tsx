@@ -50,7 +50,7 @@ const Hero = () => {
 
     <div className="flex flex-col md:flex-row gap-4 mt-6 md:mt-6">
          <div className='grid grid-cols-1 w-full md:w-1/2'>
-            <div className="bg-linear-to-r from-[#ecf9fd] to-[#fdf7f7] rounded-3xl p-4 shadow-sm  h-64 justify-center">
+            <div className="bg-linear-to-r from-[#ecf9fd] to-[#fdf7f7] rounded-3xl p-4 shadow-sm  h-57 mb-2 justify-center">
              <div className="items-start gap-3 mb-3">
           <div className="text-5xl mb-4">🚀</div>
           <div className="flex items-baseline gap-2">
