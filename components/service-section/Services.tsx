@@ -1,6 +1,4 @@
-import React from 'react'
 import ServiceCard from './ServiceCard'
-import icon1 from '../../public/assets/icon-img/Frame.png'
 
 const Service = () => {
     const services = [
