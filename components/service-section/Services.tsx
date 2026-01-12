@@ -49,7 +49,9 @@ const Service = () => {
     <section className="px-4 py-16 md:py-24 lg:py-32 bg-white">
       <div className="mx-auto max-w-7xl">
         <div className="text-center mb-16">
-          <p className="text-sm font-semibold text-blue-600 uppercase tracking-wide mb-2">Our Services</p>
+          <div>          
+            <p className="text-sm text-blue-600 mb-8"><span className="bg-slate-100 px-4 py-4 rounded-4xl">Our Services</span></p>
+        </div>
           <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-4 text-balance">
             Full-stack Digital Marketing Services
           </h2>
